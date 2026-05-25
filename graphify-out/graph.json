@@ -1,0 +1,760 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "about.md",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L1",
+      "id": "about_md",
+      "community": 2,
+      "norm_label": "about.md"
+    },
+    {
+      "label": "ICMS Plugin \u2014 Complete Technical & Functional Specification",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L1",
+      "id": "icms_back_about_icms_plugin_complete_technical_functional_specification",
+      "community": 2,
+      "norm_label": "icms plugin \u2014 complete technical & functional specification"
+    },
+    {
+      "label": "Executive Overview",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L3",
+      "id": "icms_back_about_executive_overview",
+      "community": 2,
+      "norm_label": "executive overview"
+    },
+    {
+      "label": "Core Objectives",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L13",
+      "id": "icms_back_about_core_objectives",
+      "community": 2,
+      "norm_label": "core objectives"
+    },
+    {
+      "label": "Database Management System",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L25",
+      "id": "icms_back_about_database_management_system",
+      "community": 1,
+      "norm_label": "database management system"
+    },
+    {
+      "label": "Table Architecture (5 Core Tables + 2 Log Tables)",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L29",
+      "id": "icms_back_about_table_architecture_5_core_tables_2_log_tables",
+      "community": 1,
+      "norm_label": "table architecture (5 core tables + 2 log tables)"
+    },
+    {
+      "label": "code:block1 (wp_icms_cases              \u2014 Primary case records (encrypted)",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L31",
+      "id": "icms_back_about_codeblock_1",
+      "community": 1,
+      "norm_label": "code:block1 (wp_icms_cases              \u2014 primary case records (encrypted)"
+    },
+    {
+      "label": "Database Management Tooling (Built into Plugin)",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L41",
+      "id": "icms_back_about_database_management_tooling_built_into_plugin",
+      "community": 1,
+      "norm_label": "database management tooling (built into plugin)"
+    },
+    {
+      "label": "Database Interaction Pattern",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L56",
+      "id": "icms_back_about_database_interaction_pattern",
+      "community": 1,
+      "norm_label": "database interaction pattern"
+    },
+    {
+      "label": "code:block2 (Application Layer (UseCase))",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L60",
+      "id": "icms_back_about_codeblock_2",
+      "community": 1,
+      "norm_label": "code:block2 (application layer (usecase))"
+    },
+    {
+      "label": "Security Architecture",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L76",
+      "id": "icms_back_about_security_architecture",
+      "community": 3,
+      "norm_label": "security architecture"
+    },
+    {
+      "label": "Authentication Flow",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L78",
+      "id": "icms_back_about_authentication_flow",
+      "community": 3,
+      "norm_label": "authentication flow"
+    },
+    {
+      "label": "Data Protection Layers",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L87",
+      "id": "icms_back_about_data_protection_layers",
+      "community": 3,
+      "norm_label": "data protection layers"
+    },
+    {
+      "label": "Audit Trail Immutability",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L100",
+      "id": "icms_back_about_audit_trail_immutability",
+      "community": 3,
+      "norm_label": "audit trail immutability"
+    },
+    {
+      "label": "Security Features Excluded by Design",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L110",
+      "id": "icms_back_about_security_features_excluded_by_design",
+      "community": 3,
+      "norm_label": "security features excluded by design"
+    },
+    {
+      "label": "Core Functionalities (Complete Feature Matrix)",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L122",
+      "id": "icms_back_about_core_functionalities_complete_feature_matrix",
+      "community": 0,
+      "norm_label": "core functionalities (complete feature matrix)"
+    },
+    {
+      "label": "Case Management Engine",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L124",
+      "id": "icms_back_about_case_management_engine",
+      "community": 0,
+      "norm_label": "case management engine"
+    },
+    {
+      "label": "EFNS Integration",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L136",
+      "id": "icms_back_about_efns_integration",
+      "community": 0,
+      "norm_label": "efns integration"
+    },
+    {
+      "label": "Officer & User Management",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L144",
+      "id": "icms_back_about_officer_user_management",
+      "community": 0,
+      "norm_label": "officer & user management"
+    },
+    {
+      "label": "Public Portal Capabilities",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L153",
+      "id": "icms_back_about_public_portal_capabilities",
+      "community": 0,
+      "norm_label": "public portal capabilities"
+    },
+    {
+      "label": "Communication Tools",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L162",
+      "id": "icms_back_about_communication_tools",
+      "community": 0,
+      "norm_label": "communication tools"
+    },
+    {
+      "label": "Technology Stack (Plugin Internal)",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L172",
+      "id": "icms_back_about_technology_stack_plugin_internal",
+      "community": 2,
+      "norm_label": "technology stack (plugin internal)"
+    },
+    {
+      "label": "Ethical & Legal Compliance Features",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L188",
+      "id": "icms_back_about_ethical_legal_compliance_features",
+      "community": 6,
+      "norm_label": "ethical & legal compliance features"
+    },
+    {
+      "label": "Kenya Data Protection Act (DPA 2019) Compliance",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L190",
+      "id": "icms_back_about_kenya_data_protection_act_dpa_2019_compliance",
+      "community": 6,
+      "norm_label": "kenya data protection act (dpa 2019) compliance"
+    },
+    {
+      "label": "Anti-Corruption Design",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L198",
+      "id": "icms_back_about_anti_corruption_design",
+      "community": 6,
+      "norm_label": "anti-corruption design"
+    },
+    {
+      "label": "Right to Withdraw Clause (Built into Plugin Metadata)",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L205",
+      "id": "icms_back_about_right_to_withdraw_clause_built_into_plugin_metadata",
+      "community": 6,
+      "norm_label": "right to withdraw clause (built into plugin metadata)"
+    },
+    {
+      "label": "Integration Points",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L210",
+      "id": "icms_back_about_integration_points",
+      "community": 7,
+      "norm_label": "integration points"
+    },
+    {
+      "label": "Inbound Integrations",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L212",
+      "id": "icms_back_about_inbound_integrations",
+      "community": 7,
+      "norm_label": "inbound integrations"
+    },
+    {
+      "label": "Outbound Integrations",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L217",
+      "id": "icms_back_about_outbound_integrations",
+      "community": 7,
+      "norm_label": "outbound integrations"
+    },
+    {
+      "label": "Explicitly Blocked Integrations",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L222",
+      "id": "icms_back_about_explicitly_blocked_integrations",
+      "community": 7,
+      "norm_label": "explicitly blocked integrations"
+    },
+    {
+      "label": "Plugin Lifecycle Management",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L233",
+      "id": "icms_back_about_plugin_lifecycle_management",
+      "community": 4,
+      "norm_label": "plugin lifecycle management"
+    },
+    {
+      "label": "Installation",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L235",
+      "id": "icms_back_about_installation",
+      "community": 4,
+      "norm_label": "installation"
+    },
+    {
+      "label": "Updates",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L242",
+      "id": "icms_back_about_updates",
+      "community": 4,
+      "norm_label": "updates"
+    },
+    {
+      "label": "Deactivation",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L247",
+      "id": "icms_back_about_deactivation",
+      "community": 4,
+      "norm_label": "deactivation"
+    },
+    {
+      "label": "Uninstallation",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L253",
+      "id": "icms_back_about_uninstallation",
+      "community": 4,
+      "norm_label": "uninstallation"
+    },
+    {
+      "label": "Development Standards",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L262",
+      "id": "icms_back_about_development_standards",
+      "community": 5,
+      "norm_label": "development standards"
+    },
+    {
+      "label": "Code Architecture",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L264",
+      "id": "icms_back_about_code_architecture",
+      "community": 5,
+      "norm_label": "code architecture"
+    },
+    {
+      "label": "Coding Standards",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L271",
+      "id": "icms_back_about_coding_standards",
+      "community": 5,
+      "norm_label": "coding standards"
+    },
+    {
+      "label": "Testing Requirements",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L279",
+      "id": "icms_back_about_testing_requirements",
+      "community": 5,
+      "norm_label": "testing requirements"
+    },
+    {
+      "label": "Summary",
+      "file_type": "document",
+      "source_file": "about.md",
+      "source_location": "L287",
+      "id": "icms_back_about_summary",
+      "community": 2,
+      "norm_label": "summary"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "about_md",
+      "target": "icms_back_about_icms_plugin_complete_technical_functional_specification",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "icms_back_about_icms_plugin_complete_technical_functional_specification",
+      "target": "icms_back_about_executive_overview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "icms_back_about_icms_plugin_complete_technical_functional_specification",
+      "target": "icms_back_about_core_objectives",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "icms_back_about_icms_plugin_complete_technical_functional_specification",
+      "target": "icms_back_about_database_management_system",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "icms_back_about_icms_plugin_complete_technical_functional_specification",
+      "target": "icms_back_about_security_architecture",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "icms_back_about_icms_plugin_complete_technical_functional_specification",
+      "target": "icms_back_about_core_functionalities_complete_feature_matrix",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L172",
+      "weight": 1.0,
+      "source": "icms_back_about_icms_plugin_complete_technical_functional_specification",
+      "target": "icms_back_about_technology_stack_plugin_internal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L188",
+      "weight": 1.0,
+      "source": "icms_back_about_icms_plugin_complete_technical_functional_specification",
+      "target": "icms_back_about_ethical_legal_compliance_features",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L210",
+      "weight": 1.0,
+      "source": "icms_back_about_icms_plugin_complete_technical_functional_specification",
+      "target": "icms_back_about_integration_points",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L233",
+      "weight": 1.0,
+      "source": "icms_back_about_icms_plugin_complete_technical_functional_specification",
+      "target": "icms_back_about_plugin_lifecycle_management",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L262",
+      "weight": 1.0,
+      "source": "icms_back_about_icms_plugin_complete_technical_functional_specification",
+      "target": "icms_back_about_development_standards",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L287",
+      "weight": 1.0,
+      "source": "icms_back_about_icms_plugin_complete_technical_functional_specification",
+      "target": "icms_back_about_summary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "icms_back_about_database_management_system",
+      "target": "icms_back_about_table_architecture_5_core_tables_2_log_tables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "icms_back_about_database_management_system",
+      "target": "icms_back_about_database_management_tooling_built_into_plugin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "icms_back_about_database_management_system",
+      "target": "icms_back_about_database_interaction_pattern",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "icms_back_about_table_architecture_5_core_tables_2_log_tables",
+      "target": "icms_back_about_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L60",
+      "weight": 1.0,
+      "source": "icms_back_about_database_interaction_pattern",
+      "target": "icms_back_about_codeblock_2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "icms_back_about_security_architecture",
+      "target": "icms_back_about_authentication_flow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "icms_back_about_security_architecture",
+      "target": "icms_back_about_data_protection_layers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "icms_back_about_security_architecture",
+      "target": "icms_back_about_audit_trail_immutability",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L110",
+      "weight": 1.0,
+      "source": "icms_back_about_security_architecture",
+      "target": "icms_back_about_security_features_excluded_by_design",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L124",
+      "weight": 1.0,
+      "source": "icms_back_about_core_functionalities_complete_feature_matrix",
+      "target": "icms_back_about_case_management_engine",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L136",
+      "weight": 1.0,
+      "source": "icms_back_about_core_functionalities_complete_feature_matrix",
+      "target": "icms_back_about_efns_integration",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L144",
+      "weight": 1.0,
+      "source": "icms_back_about_core_functionalities_complete_feature_matrix",
+      "target": "icms_back_about_officer_user_management",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L153",
+      "weight": 1.0,
+      "source": "icms_back_about_core_functionalities_complete_feature_matrix",
+      "target": "icms_back_about_public_portal_capabilities",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L162",
+      "weight": 1.0,
+      "source": "icms_back_about_core_functionalities_complete_feature_matrix",
+      "target": "icms_back_about_communication_tools",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L190",
+      "weight": 1.0,
+      "source": "icms_back_about_ethical_legal_compliance_features",
+      "target": "icms_back_about_kenya_data_protection_act_dpa_2019_compliance",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L198",
+      "weight": 1.0,
+      "source": "icms_back_about_ethical_legal_compliance_features",
+      "target": "icms_back_about_anti_corruption_design",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L205",
+      "weight": 1.0,
+      "source": "icms_back_about_ethical_legal_compliance_features",
+      "target": "icms_back_about_right_to_withdraw_clause_built_into_plugin_metadata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L212",
+      "weight": 1.0,
+      "source": "icms_back_about_integration_points",
+      "target": "icms_back_about_inbound_integrations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L217",
+      "weight": 1.0,
+      "source": "icms_back_about_integration_points",
+      "target": "icms_back_about_outbound_integrations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L222",
+      "weight": 1.0,
+      "source": "icms_back_about_integration_points",
+      "target": "icms_back_about_explicitly_blocked_integrations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L235",
+      "weight": 1.0,
+      "source": "icms_back_about_plugin_lifecycle_management",
+      "target": "icms_back_about_installation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L242",
+      "weight": 1.0,
+      "source": "icms_back_about_plugin_lifecycle_management",
+      "target": "icms_back_about_updates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L247",
+      "weight": 1.0,
+      "source": "icms_back_about_plugin_lifecycle_management",
+      "target": "icms_back_about_deactivation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L253",
+      "weight": 1.0,
+      "source": "icms_back_about_plugin_lifecycle_management",
+      "target": "icms_back_about_uninstallation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L264",
+      "weight": 1.0,
+      "source": "icms_back_about_development_standards",
+      "target": "icms_back_about_code_architecture",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L271",
+      "weight": 1.0,
+      "source": "icms_back_about_development_standards",
+      "target": "icms_back_about_coding_standards",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "about.md",
+      "source_location": "L279",
+      "weight": 1.0,
+      "source": "icms_back_about_development_standards",
+      "target": "icms_back_about_testing_requirements",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}

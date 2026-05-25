@@ -1,0 +1,1277 @@
+{
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\eslint.config.mjs": {
+    "mtime": 1778324758.8629785,
+    "ast_hash": "dfa1f5f6a7037bf39dc510f30b180002",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\next.config.ts": {
+    "mtime": 1778324759.017193,
+    "ast_hash": "9b77af189a21a7a64e4bd7a426f64176",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\package.json": {
+    "mtime": 1779708069.6044953,
+    "ast_hash": "45dcd017a47cb8362962de987e52daf9",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\postcss.config.mjs": {
+    "mtime": 1778324758.8944826,
+    "ast_hash": "239f3ebf717465dc636818a1a619398d",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\skills-lock.json": {
+    "mtime": 1778324564.4741094,
+    "ast_hash": "999aa5c313e6723513885ec0894aa6ef",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\tsconfig.json": {
+    "mtime": 1778324982.6269474,
+    "ast_hash": "ee17fd1c97c735e9f3564e3f5251f125",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\vitest.config.ts": {
+    "mtime": 1778336529.4081798,
+    "ast_hash": "2d876f223be93eb63a411c2236bee1b1",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\analyze.py": {
+    "mtime": 1778324529.9762774,
+    "ast_hash": "9aca90023e723b13c37ced82155bb03c",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\benchmark.py": {
+    "mtime": 1778324529.9773302,
+    "ast_hash": "0742c9e521cedc1cbd6e213b01c93d4a",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\build.py": {
+    "mtime": 1778324529.979208,
+    "ast_hash": "fb1e20b7ef65255bc7c14d938da0d80e",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\cache.py": {
+    "mtime": 1778324529.9807491,
+    "ast_hash": "32a8513b63dc676a9f7938f3e25d9fe8",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\cluster.py": {
+    "mtime": 1778324529.982772,
+    "ast_hash": "0ba0c84b570abbfc1581ba5336b24a3f",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\dedup.py": {
+    "mtime": 1778324529.984372,
+    "ast_hash": "23a8b1a851ec9ff7239c27ad0e715ced",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\detect.py": {
+    "mtime": 1778324529.9869416,
+    "ast_hash": "2c2c372589a73e23086103e1062abc8e",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\export.py": {
+    "mtime": 1778324529.9879644,
+    "ast_hash": "945319fd9b206051aa344f8278f348fb",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\extract.py": {
+    "mtime": 1778324529.9922743,
+    "ast_hash": "48b827940559ad3950b7e8a19126761c",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\global_graph.py": {
+    "mtime": 1778324529.9942899,
+    "ast_hash": "26162123669cdc6311fe1cc7edf371b5",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\google_workspace.py": {
+    "mtime": 1778324529.9953039,
+    "ast_hash": "65f351d6eb1778feacaff4ea6fd2b2a1",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\hooks.py": {
+    "mtime": 1778324529.997336,
+    "ast_hash": "359c072c949d7ee88162d3d8a390c042",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\ingest.py": {
+    "mtime": 1778324529.997336,
+    "ast_hash": "c9688ebc354ea9a8b6b69448b8d67956",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\llm.py": {
+    "mtime": 1778324529.9999013,
+    "ast_hash": "3dc386680610c0a16956d08a534d90bf",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\manifest.py": {
+    "mtime": 1778324530.0004468,
+    "ast_hash": "b6fb195b7900f4ed7bec86a8b0d43a18",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\report.py": {
+    "mtime": 1778324530.0024686,
+    "ast_hash": "82a03153b8a81bf229b865cee202cacc",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\security.py": {
+    "mtime": 1778324530.0034633,
+    "ast_hash": "4a413809994067d9cb55b74fdd289e6e",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\serve.py": {
+    "mtime": 1778324530.0055535,
+    "ast_hash": "6a5b9f81abc1003881d792e3b9bd9796",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\transcribe.py": {
+    "mtime": 1778324530.0324955,
+    "ast_hash": "806ed4df8ffa36a40cc887a8b07e0c36",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\tree_html.py": {
+    "mtime": 1778324530.0345006,
+    "ast_hash": "7b89a14fd14e3387bdcd52b6a15b0038",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\validate.py": {
+    "mtime": 1778324530.0354989,
+    "ast_hash": "58b66d31350c480f602c1cb09648245d",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\watch.py": {
+    "mtime": 1778324530.0370297,
+    "ast_hash": "77f2c060c207433d9301a55c1c6b3e3d",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\wiki.py": {
+    "mtime": 1778324530.0385427,
+    "ast_hash": "451857d3af393251392e3e96a882340d",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\__init__.py": {
+    "mtime": 1778324529.9678295,
+    "ast_hash": "7d6b16eb66fd4852a50d7474a1815579",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\__main__.py": {
+    "mtime": 1778324529.9718523,
+    "ast_hash": "f8b5fb6a8738ff20b1adf7b7e0688e24",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\prisma\\migrations\\20260509135453_init\\migration.sql": {
+    "mtime": 1778334893.9139373,
+    "ast_hash": "38ac899eb290ce012ba17e979593f261",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\proxy.ts": {
+    "mtime": 1779707199.4717655,
+    "ast_hash": "76d8a9cc3801cec8eed52a000fdbee96",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\app\\layout.tsx": {
+    "mtime": 1778358501.1974807,
+    "ast_hash": "0f98af04860801614e263720316b9206",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\app\\page.tsx": {
+    "mtime": 1778360477.9227333,
+    "ast_hash": "1dadba43d5b50dcf92567c93312e8985",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\app\\api\\cases\\document-rejection\\route.ts": {
+    "mtime": 1778335778.1411624,
+    "ast_hash": "2f7132740fa8511ab4b1624f284a9b2b",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\app\\api\\cases\\flag-expiring-eta\\route.ts": {
+    "mtime": 1778335479.444413,
+    "ast_hash": "e130063a9365639a72d19296c24291cb",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\app\\api\\cases\\notify-individual\\route.ts": {
+    "mtime": 1778335693.5097437,
+    "ast_hash": "ad8823705b2a7384ab04cbd7258c30d0",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\app\\api\\cases\\recommendations\\route.ts": {
+    "mtime": 1778335687.3786654,
+    "ast_hash": "0786fabe71682ff71d0e4dfc75d52ab0",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\app\\api\\public\\report-violation\\route.ts": {
+    "mtime": 1778356724.188668,
+    "ast_hash": "84e9c6a146efc0361cabc7f3a706f0b4",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\app\\public\\advisories\\page.tsx": {
+    "mtime": 1778338537.6843305,
+    "ast_hash": "56db6abceff8da3ee9d6cf816c2f2301",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\app\\public\\articles\\page.tsx": {
+    "mtime": 1778338537.6777444,
+    "ast_hash": "3803174f36b575eef290b9b6671f06f2",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\app\\public\\extension-eligibility\\page.tsx": {
+    "mtime": 1778338537.695865,
+    "ast_hash": "bc19afe8f397918ec1f475d7de7dd494",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\app\\public\\report-abuse\\page.tsx": {
+    "mtime": 1778338537.750562,
+    "ast_hash": "b9ec12c985e07c00a899bfe03fb8cf17",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\app\\public\\report-violation\\page.tsx": {
+    "mtime": 1778356412.4258537,
+    "ast_hash": "52c160bf4999fd1ccac0730d01f1dbf3",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\app\\welcome\\route.ts": {
+    "mtime": 1778330762.9832013,
+    "ast_hash": "261d0f3503c3ca5d2d1d3188b51ee27f",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Application\\DTOs\\Commands.ts": {
+    "mtime": 1778329107.8616927,
+    "ast_hash": "bd4cb4b3891b8dec1191395b8c05444a",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Application\\UseCases\\FlagExpiringETAUseCase.ts": {
+    "mtime": 1778329107.8671374,
+    "ast_hash": "6bd26f46e0aa78dcc96ba5358e3f3dd6",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Application\\UseCases\\NotifyIndividualUseCase.ts": {
+    "mtime": 1778329107.8671374,
+    "ast_hash": "c36e1e0978e31e42c50a2cba4f090cc1",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Application\\UseCases\\ProcessDocumentRejectionUseCase.ts": {
+    "mtime": 1778329107.8616927,
+    "ast_hash": "27dd2964e1bbb20949ddc6cdef93dabe",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Application\\UseCases\\ReportViolationUseCase.ts": {
+    "mtime": 1778356644.9892206,
+    "ast_hash": "33164254b1507352fa6a8cf0263c3d4f",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Application\\UseCases\\SubmitRecommendationUseCase.ts": {
+    "mtime": 1778329107.8637023,
+    "ast_hash": "1e44ba0ad6b3868f11cfd7eb2980fbac",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\components\\layout\\Footer.tsx": {
+    "mtime": 1779707789.447123,
+    "ast_hash": "17e0ea60ecabac2a184baed9298a086b",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\components\\layout\\Header.tsx": {
+    "mtime": 1779723194.3289766,
+    "ast_hash": "fcf03c583eda91e0338296ffb8f5546f",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\components\\maps\\KenyaEntryMap.tsx": {
+    "mtime": 1778358946.2320979,
+    "ast_hash": "831296bf50a5d297a9b9f975e539c4a5",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\components\\maps\\KenyaEntryMapInner.tsx": {
+    "mtime": 1778358946.2320979,
+    "ast_hash": "5645e0f507d328c4a55f878c4dcc3e5b",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Domain\\Entities\\ETARecord.ts": {
+    "mtime": 1778329087.9907923,
+    "ast_hash": "36c86f2a76505cc698ee32688033be90",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Domain\\Entities\\ImmigrationCase.ts": {
+    "mtime": 1778329087.9944172,
+    "ast_hash": "d40795ae0dc481267982bd96c560e65a",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Domain\\Entities\\Individual.ts": {
+    "mtime": 1778329074.2269378,
+    "ast_hash": "c24c947a1fbb58b053204a6ec19ebdd1",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Domain\\Entities\\Recommendation.ts": {
+    "mtime": 1778329087.9944172,
+    "ast_hash": "112f2f62104905188dfd34cb50bc55a6",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Domain\\Entities\\Violation.ts": {
+    "mtime": 1778356644.9892206,
+    "ast_hash": "9bf725abe0ca3282643304285eab4408",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Domain\\Exceptions\\DomainError.ts": {
+    "mtime": 1778329074.2247393,
+    "ast_hash": "dd11cb4092c9ff02c998549c5840ab2a",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Domain\\Repositories\\CaseRepository.ts": {
+    "mtime": 1778329087.9944172,
+    "ast_hash": "0d3e284b00386054064a09c896bca0c6",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Domain\\Repositories\\IndividualRepository.ts": {
+    "mtime": 1778329087.9944172,
+    "ast_hash": "028cf41a29542398dc3a89889a07e737",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Domain\\Repositories\\RecommendationRepository.ts": {
+    "mtime": 1778329087.9944172,
+    "ast_hash": "971781f1376e60681428bd01b0321a30",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Domain\\Repositories\\ViolationRepository.ts": {
+    "mtime": 1778339486.2335918,
+    "ast_hash": "b49ade785d88509f7819603228b2d6dc",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Domain\\Services\\Ports.ts": {
+    "mtime": 1778329087.9944172,
+    "ast_hash": "aef3d2d9eacb4bfdec9b393991c4e17b",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Domain\\ValueObjects\\CaseStatus.ts": {
+    "mtime": 1778329074.2269378,
+    "ast_hash": "a69e0e626107a5ba9e55ed443c16da5f",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Domain\\ValueObjects\\ExpiryWindow.ts": {
+    "mtime": 1778329074.2247393,
+    "ast_hash": "e9b51f7a59d8aa8fc7cdb74c104561f2",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Domain\\ValueObjects\\RiskLevel.ts": {
+    "mtime": 1778329074.2247393,
+    "ast_hash": "f172c99b31ac4e91775bfacd33106a10",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Domain\\ValueObjects\\ViolationType.ts": {
+    "mtime": 1778356489.3299024,
+    "ast_hash": "3d79d1db073b6bf82d273d3a3d5c9b5b",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Infrastructure\\Auth\\RolePolicyService.ts": {
+    "mtime": 1778329127.4744623,
+    "ast_hash": "7e4f9439277b74f2d00d496cfee74cdf",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Infrastructure\\bootstrap\\buildCaseController.ts": {
+    "mtime": 1778335687.3786654,
+    "ast_hash": "fe900213d795eec375b73f0091db2a11",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Infrastructure\\bootstrap\\buildViolationController.ts": {
+    "mtime": 1778354505.576268,
+    "ast_hash": "c32d5a57010504e0fc276b224bfd9553",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Infrastructure\\External\\ConsoleAuditAdapter.ts": {
+    "mtime": 1778329127.4744623,
+    "ast_hash": "c79a2b460b84ccc7d8e25cb444659f61",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Infrastructure\\External\\ConsoleNotificationAdapter.ts": {
+    "mtime": 1778329127.4789965,
+    "ast_hash": "92bf54885d2a81de0b96838f8f7c98a0",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Infrastructure\\External\\edgeConfigClient.ts": {
+    "mtime": 1778330762.9832013,
+    "ast_hash": "7941f94ca5ea6dae7a638901ce15be36",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Infrastructure\\External\\SystemClock.ts": {
+    "mtime": 1778329127.4744623,
+    "ast_hash": "aa55ec100c224ddfe86677e58f3a6fae",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Infrastructure\\Persistence\\prismaClient.ts": {
+    "mtime": 1778329752.712137,
+    "ast_hash": "a8033c2651e6176e5de9e965610896bf",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Infrastructure\\Persistence\\Repositories\\InMemoryCaseRepository.ts": {
+    "mtime": 1778329127.4877386,
+    "ast_hash": "8e865c02a68290131a9047a9029025e0",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Infrastructure\\Persistence\\Repositories\\InMemoryIndividualRepository.ts": {
+    "mtime": 1778329127.4830532,
+    "ast_hash": "6639c4b68dc977e80d373c56e95f8670",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Infrastructure\\Persistence\\Repositories\\InMemoryRecommendationRepository.ts": {
+    "mtime": 1778329127.4877386,
+    "ast_hash": "5fc559be20fa6f4bd757d82a075b8cae",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Infrastructure\\Persistence\\Repositories\\PrismaCaseRepository.ts": {
+    "mtime": 1778329752.712137,
+    "ast_hash": "4ff3ae6894406da678b545dcb47d0c6c",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Infrastructure\\Persistence\\Repositories\\PrismaIndividualRepository.ts": {
+    "mtime": 1778335479.444413,
+    "ast_hash": "03bdacd5e7fd8e420a5792aca5e009f0",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Infrastructure\\Persistence\\Repositories\\PrismaRecommendationRepository.ts": {
+    "mtime": 1778329752.712137,
+    "ast_hash": "ecfedd0164c2bdb3259109ea7c57db0b",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Infrastructure\\Persistence\\Repositories\\PrismaViolationRepository.ts": {
+    "mtime": 1779706047.1495636,
+    "ast_hash": "6e374aa2ae2662f8eee4a938d54304db",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Infrastructure\\Services\\ViolationRoutingService.ts": {
+    "mtime": 1778353678.637587,
+    "ast_hash": "cf1e1ac8d4a9eb0602b823bca743e11a",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Presentation\\Controllers\\ApiRouteContract.ts": {
+    "mtime": 1778335687.3786654,
+    "ast_hash": "b55937c57575eb2ba1ee26f410f96f60",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Presentation\\Controllers\\CaseController.ts": {
+    "mtime": 1778335687.3786654,
+    "ast_hash": "388ec373bf647e34311bc957b7a7e11f",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Presentation\\Controllers\\ViolationController.ts": {
+    "mtime": 1779706047.1515734,
+    "ast_hash": "c1781ce265b2b02e81ce2980e34a1708",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Presentation\\Middleware\\buildSecurityContext.ts": {
+    "mtime": 1778329127.4830532,
+    "ast_hash": "4e0d796e31721e87129fefbedb9b7bb1",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\src\\Presentation\\Middleware\\withAuthorization.ts": {
+    "mtime": 1778331113.8501785,
+    "ast_hash": "71625e5c2b9ed4845e66222bac2405c6",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\tests\\api\\cases.integration.test.ts": {
+    "mtime": 1778336555.6208344,
+    "ast_hash": "01ac781573c82b083bb1c2021ccf339c",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\AGENTS.md": {
+    "mtime": 1778325165.0803359,
+    "ast_hash": "9e09241799026ac05be315a2f0b50055",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\CLAUDE.md": {
+    "mtime": 1778325165.0824924,
+    "ast_hash": "5c27369b226fcf2be8a6cfe52224e767",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\README.md": {
+    "mtime": 1778324758.8362246,
+    "ast_hash": "f15aaa42d5d299d091b1171097ea56ad",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\frontend-design\\LICENSE.txt": {
+    "mtime": 1778324057.3868468,
+    "ast_hash": "29256199be2a609aac596980ffc11996",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\frontend-design\\SKILL.md": {
+    "mtime": 1778324057.3874328,
+    "ast_hash": "400c8b8231420f30b48aed0a6f37df9f",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\skill-aider.md": {
+    "mtime": 1778324530.008261,
+    "ast_hash": "6b886d5981c5c38cf4ad45c4288a5311",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\skill-claw.md": {
+    "mtime": 1778324530.009426,
+    "ast_hash": "d80ef31f651db9ebfc757bdb7d742d4e",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\skill-codex.md": {
+    "mtime": 1778324530.0121965,
+    "ast_hash": "bfc8fa5ea54ea80307d96eea119996cd",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\skill-copilot.md": {
+    "mtime": 1778324530.0142434,
+    "ast_hash": "96cc13e0fda898b9aa8dbfc765d17c79",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\skill-droid.md": {
+    "mtime": 1778324530.0152545,
+    "ast_hash": "83864d8ac67b8723341abfc13af49a2b",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\skill-kiro.md": {
+    "mtime": 1778324530.0193076,
+    "ast_hash": "8bdd6056478b081e4ff100294b33b1b3",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\skill-opencode.md": {
+    "mtime": 1778324530.021325,
+    "ast_hash": "8d150bd0dba08b9ff95e2b7421dfe1d2",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\skill-pi.md": {
+    "mtime": 1778324530.0233479,
+    "ast_hash": "50b8c5a242704249525ae8553c810443",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\skill-trae.md": {
+    "mtime": 1778324530.025956,
+    "ast_hash": "379caff1ca137af3fe680dcab40b4736",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\skill-vscode.md": {
+    "mtime": 1778324530.0269606,
+    "ast_hash": "c8d4fe3b15c15f4d069d3e1d721f3ef1",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\skill-windows.md": {
+    "mtime": 1778324530.0289557,
+    "ast_hash": "d9edd0d224d3d4133fcaa99fcbb3b084",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\graphify\\skill.md": {
+    "mtime": 1778324530.030484,
+    "ast_hash": "3b5cb6d3ea73e8908b914c54d7868203",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\AGENTS.md": {
+    "mtime": 1778324212.8462868,
+    "ast_hash": "d7783bf645d39790b10c758f69fae2f0",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\overlay.yaml": {
+    "mtime": 1778324212.8505003,
+    "ast_hash": "eaaa0008fdbadc612eef8ce60993e92e",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\SKILL.md": {
+    "mtime": 1778324212.8487735,
+    "ast_hash": "3d9bfcdebfb5f31af95e032d2ba0d896",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\advanced-event-handler-refs.md": {
+    "mtime": 1778324212.8571846,
+    "ast_hash": "f2a0d125f3773bfda91e187fa5bed48a",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\advanced-init-once.md": {
+    "mtime": 1778324212.8588462,
+    "ast_hash": "0100519098b834e69a3515657a39bdc9",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\advanced-use-latest.md": {
+    "mtime": 1778324212.8609624,
+    "ast_hash": "60309961293388c9b9e9fd4e0db344e3",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\async-api-routes.md": {
+    "mtime": 1778324212.8629262,
+    "ast_hash": "344fa543b37e303660404e1ef3a4638b",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\async-defer-await.md": {
+    "mtime": 1778324212.8648326,
+    "ast_hash": "6c0229d5e8267c3036443b39cd1805a6",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\async-dependencies.md": {
+    "mtime": 1778324212.8670864,
+    "ast_hash": "9c5622d97b20b9e0cb79455b4322061a",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\async-parallel.md": {
+    "mtime": 1778324212.8670864,
+    "ast_hash": "a0e06a8e9985cdff4ece0312d8ee35db",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\async-suspense-boundaries.md": {
+    "mtime": 1778324212.8670864,
+    "ast_hash": "dbb2fc80721ca1ce32426f43219d314f",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\bundle-barrel-imports.md": {
+    "mtime": 1778324212.8670864,
+    "ast_hash": "cb9904b16c26f7670dacf4b7f8d53af8",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\bundle-conditional.md": {
+    "mtime": 1778324212.8670864,
+    "ast_hash": "585be2b6fc418c766e5b91cc2141d334",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\bundle-defer-third-party.md": {
+    "mtime": 1778324212.8670864,
+    "ast_hash": "6d4d1d4fac411f724071428dd0bc93ba",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\bundle-dynamic-imports.md": {
+    "mtime": 1778324212.8788316,
+    "ast_hash": "72d89583306887810f67e9f7860f06af",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\bundle-preload.md": {
+    "mtime": 1778324212.882127,
+    "ast_hash": "924ec7e7502ca042070326d38e88f8cd",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\client-event-listeners.md": {
+    "mtime": 1778324212.8841262,
+    "ast_hash": "71062add972f9735348b7ae77e778eb8",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\client-localstorage-schema.md": {
+    "mtime": 1778324212.887304,
+    "ast_hash": "982a459b07cbec2f8386e526b924c339",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\client-passive-event-listeners.md": {
+    "mtime": 1778324212.890962,
+    "ast_hash": "3853533fd5f49fa2fc98296f9c34d84f",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\client-swr-dedup.md": {
+    "mtime": 1778324212.8936675,
+    "ast_hash": "e565fcba7836d339ca4707aad6fdaa4a",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\js-batch-dom-css.md": {
+    "mtime": 1778324212.8989537,
+    "ast_hash": "869dbc06a931ccfb899b739316c348af",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\js-cache-function-results.md": {
+    "mtime": 1778324212.9010212,
+    "ast_hash": "5d641ce87ef753d59e3205244e2851a1",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\js-cache-property-access.md": {
+    "mtime": 1778324212.903037,
+    "ast_hash": "5b4ae3cd853b92222a8fd8c8d8202426",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\js-cache-storage.md": {
+    "mtime": 1778324212.9056146,
+    "ast_hash": "828f260566ff92df56089321fa41c116",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\js-combine-iterations.md": {
+    "mtime": 1778324212.9071672,
+    "ast_hash": "4f241532133637fee75304d40f016713",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\js-early-exit.md": {
+    "mtime": 1778324212.9102085,
+    "ast_hash": "d300cb3e57255029e446bdfa49dc4074",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\js-flatmap-filter.md": {
+    "mtime": 1778324212.9124334,
+    "ast_hash": "161d9d8b444e5ec9cb58bffb0e1b76cd",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\js-hoist-regexp.md": {
+    "mtime": 1778324212.9144778,
+    "ast_hash": "ced4609a5916db47bbaccfcc3f2dcdbb",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\js-index-maps.md": {
+    "mtime": 1778324212.916495,
+    "ast_hash": "db5bcfde02e1ce9f41d6ed1f5aafc8c5",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\js-length-check-first.md": {
+    "mtime": 1778324212.920064,
+    "ast_hash": "2ba208759dd91578f1085c28e6a92ce9",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\js-min-max-loop.md": {
+    "mtime": 1778324212.920064,
+    "ast_hash": "82f654d27529dd80be7ae33d45dcdf8c",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\js-set-map-lookups.md": {
+    "mtime": 1778324212.920064,
+    "ast_hash": "59a278e21ecd322bff566ba4ad7f5a30",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\js-tosorted-immutable.md": {
+    "mtime": 1778324212.928059,
+    "ast_hash": "fd0804905877b6b7b1858e5df1b5f3c4",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rendering-activity.md": {
+    "mtime": 1778324212.9363434,
+    "ast_hash": "b66bde1377564aa196ba15fc94215cd3",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rendering-animate-svg-wrapper.md": {
+    "mtime": 1778324212.9398847,
+    "ast_hash": "7301cbe48bf0e1c44934847861384d03",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rendering-conditional-render.md": {
+    "mtime": 1778324212.943922,
+    "ast_hash": "7aa6112d7544d55147e183b84add9c31",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rendering-content-visibility.md": {
+    "mtime": 1778324212.9474647,
+    "ast_hash": "a4ec0125d3a9d79ac2ab5f7a7b5b4d7d",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rendering-hoist-jsx.md": {
+    "mtime": 1778324212.9505236,
+    "ast_hash": "00519c11155c5c2a6f493d7980211a71",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rendering-hydration-no-flicker.md": {
+    "mtime": 1778324212.952757,
+    "ast_hash": "a33ebc96d26525f94c460342d913e47a",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rendering-hydration-suppress-warning.md": {
+    "mtime": 1778324212.9553332,
+    "ast_hash": "23bc895f5697c19a59712bf19474ec12",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rendering-resource-hints.md": {
+    "mtime": 1778324212.9583206,
+    "ast_hash": "a612b2d1d86d1b8205b92ff7dfd81eb8",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rendering-script-defer-async.md": {
+    "mtime": 1778324212.9613044,
+    "ast_hash": "d62596aed565dd3ad7bddd38bc8f7798",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rendering-svg-precision.md": {
+    "mtime": 1778324212.9623134,
+    "ast_hash": "1b880754ee449c52ccc725481f8b2e90",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rendering-usetransition-loading.md": {
+    "mtime": 1778324212.965166,
+    "ast_hash": "3cea04ec76a76183cebc6571ac6365a2",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rerender-defer-reads.md": {
+    "mtime": 1778324212.9671786,
+    "ast_hash": "2b754062eb7b203632859f6515ed3561",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rerender-dependencies.md": {
+    "mtime": 1778324212.9697092,
+    "ast_hash": "ad0e42cd0616237f62f8a5abbc2138bc",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rerender-derived-state-no-effect.md": {
+    "mtime": 1778324212.9720056,
+    "ast_hash": "c83ba3c8ea58015fd30072790a4959c4",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rerender-derived-state.md": {
+    "mtime": 1778324212.9740398,
+    "ast_hash": "fadd31941e355786cb0cc7bba3c672fd",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rerender-functional-setstate.md": {
+    "mtime": 1778324212.9781077,
+    "ast_hash": "188c0b949d23c11885914c573f4a770a",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rerender-lazy-state-init.md": {
+    "mtime": 1778324212.9803965,
+    "ast_hash": "6f9fc3d826cea2ca484912256149b077",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rerender-memo-with-default-value.md": {
+    "mtime": 1778324212.9824107,
+    "ast_hash": "9bfa45660e0a4d4f180e1d12d9ed44ea",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rerender-memo.md": {
+    "mtime": 1778324212.9844084,
+    "ast_hash": "f0decabf1e4cf032c36f0977c81167b7",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rerender-move-effect-to-event.md": {
+    "mtime": 1778324212.9869351,
+    "ast_hash": "599463fe624afd8822ba2bfa7c0138d5",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rerender-no-inline-components.md": {
+    "mtime": 1778324212.9894493,
+    "ast_hash": "713855e0060cfe2ce549d08ea77e1af6",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rerender-simple-expression-in-memo.md": {
+    "mtime": 1778324212.9919946,
+    "ast_hash": "42c37552160cff86a0fcbd93a27aa74e",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rerender-split-combined-hooks.md": {
+    "mtime": 1778324212.9949884,
+    "ast_hash": "b7485878ff82ce8468078a31fc1b7f19",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rerender-transitions.md": {
+    "mtime": 1778324212.997237,
+    "ast_hash": "3f275bbfb966fcb39c554ad959fdf016",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rerender-use-deferred-value.md": {
+    "mtime": 1778324213.0003648,
+    "ast_hash": "913dc783397142c25ec997b5dc11245b",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\rerender-use-ref-transient-values.md": {
+    "mtime": 1778324213.0036526,
+    "ast_hash": "24d2e82617e2da4207afaf049e1314f3",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\server-after-nonblocking.md": {
+    "mtime": 1778324213.005855,
+    "ast_hash": "c88a79384f87826bf1b20aa3637093a5",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\server-auth-actions.md": {
+    "mtime": 1778324213.0074005,
+    "ast_hash": "d8691820d666e5dd9094ccc6996398e3",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\server-cache-lru.md": {
+    "mtime": 1778324213.0095172,
+    "ast_hash": "723195ea460bfbc4d43b4eb0c47b246b",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\server-cache-react.md": {
+    "mtime": 1778324213.0118697,
+    "ast_hash": "bc168ee66c4378854c7aa23cb9ca1369",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\server-dedup-props.md": {
+    "mtime": 1778324213.0123372,
+    "ast_hash": "86bf6f2d562ca98bca778a5b9d2f0251",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\server-hoist-static-io.md": {
+    "mtime": 1778324213.0123372,
+    "ast_hash": "c01d23aeb6735924eb897bfb2cc9d697",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\server-parallel-fetching.md": {
+    "mtime": 1778324213.0123372,
+    "ast_hash": "1a36cf0b49a1a498fc1150afbf7a42c2",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\server-serialization.md": {
+    "mtime": 1778324213.0123372,
+    "ast_hash": "e6d34426614852685f43609dd9e3b250",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\_sections.md": {
+    "mtime": 1778324212.852808,
+    "ast_hash": "b8c110b45145ded6919562772afe067c",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\rules\\_template.md": {
+    "mtime": 1778324212.8550296,
+    "ast_hash": "a0d76a2f87f3f80e9a8f3a2a1054aaaf",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\AGENTS.md": {
+    "mtime": 1778324213.0214586,
+    "ast_hash": "d7783bf645d39790b10c758f69fae2f0",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\SKILL.md": {
+    "mtime": 1778324213.0214586,
+    "ast_hash": "54aa8b9bd56d722988ee358c4eec7103",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\advanced-event-handler-refs.md": {
+    "mtime": 1778324213.030773,
+    "ast_hash": "f2a0d125f3773bfda91e187fa5bed48a",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\advanced-init-once.md": {
+    "mtime": 1778324213.0327873,
+    "ast_hash": "0100519098b834e69a3515657a39bdc9",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\advanced-use-latest.md": {
+    "mtime": 1778324213.034787,
+    "ast_hash": "60309961293388c9b9e9fd4e0db344e3",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\async-api-routes.md": {
+    "mtime": 1778324213.037205,
+    "ast_hash": "344fa543b37e303660404e1ef3a4638b",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\async-defer-await.md": {
+    "mtime": 1778324213.0387123,
+    "ast_hash": "6c0229d5e8267c3036443b39cd1805a6",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\async-dependencies.md": {
+    "mtime": 1778324213.039353,
+    "ast_hash": "9c5622d97b20b9e0cb79455b4322061a",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\async-parallel.md": {
+    "mtime": 1778324213.0419002,
+    "ast_hash": "a0e06a8e9985cdff4ece0312d8ee35db",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\async-suspense-boundaries.md": {
+    "mtime": 1778324213.0434122,
+    "ast_hash": "dbb2fc80721ca1ce32426f43219d314f",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\bundle-barrel-imports.md": {
+    "mtime": 1778324213.04587,
+    "ast_hash": "cb9904b16c26f7670dacf4b7f8d53af8",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\bundle-conditional.md": {
+    "mtime": 1778324213.0479515,
+    "ast_hash": "585be2b6fc418c766e5b91cc2141d334",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\bundle-defer-third-party.md": {
+    "mtime": 1778324213.0494587,
+    "ast_hash": "6d4d1d4fac411f724071428dd0bc93ba",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\bundle-dynamic-imports.md": {
+    "mtime": 1778324213.050472,
+    "ast_hash": "72d89583306887810f67e9f7860f06af",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\bundle-preload.md": {
+    "mtime": 1778324213.05182,
+    "ast_hash": "924ec7e7502ca042070326d38e88f8cd",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\client-event-listeners.md": {
+    "mtime": 1778324213.0543337,
+    "ast_hash": "71062add972f9735348b7ae77e778eb8",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\client-localstorage-schema.md": {
+    "mtime": 1778324213.0558667,
+    "ast_hash": "982a459b07cbec2f8386e526b924c339",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\client-passive-event-listeners.md": {
+    "mtime": 1778324213.0573826,
+    "ast_hash": "3853533fd5f49fa2fc98296f9c34d84f",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\client-swr-dedup.md": {
+    "mtime": 1778324213.0588994,
+    "ast_hash": "e565fcba7836d339ca4707aad6fdaa4a",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\js-batch-dom-css.md": {
+    "mtime": 1778324213.0609562,
+    "ast_hash": "869dbc06a931ccfb899b739316c348af",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\js-cache-function-results.md": {
+    "mtime": 1778324213.06215,
+    "ast_hash": "5d641ce87ef753d59e3205244e2851a1",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\js-cache-property-access.md": {
+    "mtime": 1778324213.06215,
+    "ast_hash": "5b4ae3cd853b92222a8fd8c8d8202426",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\js-cache-storage.md": {
+    "mtime": 1778324213.06215,
+    "ast_hash": "828f260566ff92df56089321fa41c116",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\js-combine-iterations.md": {
+    "mtime": 1778324213.06215,
+    "ast_hash": "4f241532133637fee75304d40f016713",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\js-early-exit.md": {
+    "mtime": 1778324213.0693128,
+    "ast_hash": "d300cb3e57255029e446bdfa49dc4074",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\js-flatmap-filter.md": {
+    "mtime": 1778324213.0693128,
+    "ast_hash": "161d9d8b444e5ec9cb58bffb0e1b76cd",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\js-hoist-regexp.md": {
+    "mtime": 1778324213.0693128,
+    "ast_hash": "ced4609a5916db47bbaccfcc3f2dcdbb",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\js-index-maps.md": {
+    "mtime": 1778324213.0693128,
+    "ast_hash": "db5bcfde02e1ce9f41d6ed1f5aafc8c5",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\js-length-check-first.md": {
+    "mtime": 1778324213.0693128,
+    "ast_hash": "2ba208759dd91578f1085c28e6a92ce9",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\js-min-max-loop.md": {
+    "mtime": 1778324213.0763278,
+    "ast_hash": "82f654d27529dd80be7ae33d45dcdf8c",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\js-set-map-lookups.md": {
+    "mtime": 1778324213.07804,
+    "ast_hash": "59a278e21ecd322bff566ba4ad7f5a30",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\js-tosorted-immutable.md": {
+    "mtime": 1778324213.0801246,
+    "ast_hash": "fd0804905877b6b7b1858e5df1b5f3c4",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rendering-activity.md": {
+    "mtime": 1778324213.0816755,
+    "ast_hash": "b66bde1377564aa196ba15fc94215cd3",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rendering-animate-svg-wrapper.md": {
+    "mtime": 1778324213.082673,
+    "ast_hash": "7301cbe48bf0e1c44934847861384d03",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rendering-conditional-render.md": {
+    "mtime": 1778324213.0846732,
+    "ast_hash": "7aa6112d7544d55147e183b84add9c31",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rendering-content-visibility.md": {
+    "mtime": 1778324213.085673,
+    "ast_hash": "a4ec0125d3a9d79ac2ab5f7a7b5b4d7d",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rendering-hoist-jsx.md": {
+    "mtime": 1778324213.087198,
+    "ast_hash": "00519c11155c5c2a6f493d7980211a71",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rendering-hydration-no-flicker.md": {
+    "mtime": 1778324213.087198,
+    "ast_hash": "a33ebc96d26525f94c460342d913e47a",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rendering-hydration-suppress-warning.md": {
+    "mtime": 1778324213.0892954,
+    "ast_hash": "23bc895f5697c19a59712bf19474ec12",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rendering-resource-hints.md": {
+    "mtime": 1778324213.0908203,
+    "ast_hash": "a612b2d1d86d1b8205b92ff7dfd81eb8",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rendering-script-defer-async.md": {
+    "mtime": 1778324213.0918324,
+    "ast_hash": "d62596aed565dd3ad7bddd38bc8f7798",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rendering-svg-precision.md": {
+    "mtime": 1778324213.0937138,
+    "ast_hash": "1b880754ee449c52ccc725481f8b2e90",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rendering-usetransition-loading.md": {
+    "mtime": 1778324213.0963345,
+    "ast_hash": "3cea04ec76a76183cebc6571ac6365a2",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rerender-defer-reads.md": {
+    "mtime": 1778324213.0975945,
+    "ast_hash": "2b754062eb7b203632859f6515ed3561",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rerender-dependencies.md": {
+    "mtime": 1778324213.099619,
+    "ast_hash": "ad0e42cd0616237f62f8a5abbc2138bc",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rerender-derived-state-no-effect.md": {
+    "mtime": 1778324213.1009805,
+    "ast_hash": "c83ba3c8ea58015fd30072790a4959c4",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rerender-derived-state.md": {
+    "mtime": 1778324213.1025977,
+    "ast_hash": "fadd31941e355786cb0cc7bba3c672fd",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rerender-functional-setstate.md": {
+    "mtime": 1778324213.103598,
+    "ast_hash": "188c0b949d23c11885914c573f4a770a",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rerender-lazy-state-init.md": {
+    "mtime": 1778324213.1046336,
+    "ast_hash": "6f9fc3d826cea2ca484912256149b077",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rerender-memo-with-default-value.md": {
+    "mtime": 1778324213.1061535,
+    "ast_hash": "9bfa45660e0a4d4f180e1d12d9ed44ea",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rerender-memo.md": {
+    "mtime": 1778324213.1081636,
+    "ast_hash": "f0decabf1e4cf032c36f0977c81167b7",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rerender-move-effect-to-event.md": {
+    "mtime": 1778324213.1096842,
+    "ast_hash": "599463fe624afd8822ba2bfa7c0138d5",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rerender-no-inline-components.md": {
+    "mtime": 1778324213.110945,
+    "ast_hash": "713855e0060cfe2ce549d08ea77e1af6",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rerender-simple-expression-in-memo.md": {
+    "mtime": 1778324213.1124594,
+    "ast_hash": "42c37552160cff86a0fcbd93a27aa74e",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rerender-split-combined-hooks.md": {
+    "mtime": 1778324213.1144977,
+    "ast_hash": "b7485878ff82ce8468078a31fc1b7f19",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rerender-transitions.md": {
+    "mtime": 1778324213.1144977,
+    "ast_hash": "3f275bbfb966fcb39c554ad959fdf016",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rerender-use-deferred-value.md": {
+    "mtime": 1778324213.1144977,
+    "ast_hash": "913dc783397142c25ec997b5dc11245b",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\rerender-use-ref-transient-values.md": {
+    "mtime": 1778324213.1201527,
+    "ast_hash": "24d2e82617e2da4207afaf049e1314f3",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\server-after-nonblocking.md": {
+    "mtime": 1778324213.1227438,
+    "ast_hash": "c88a79384f87826bf1b20aa3637093a5",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\server-auth-actions.md": {
+    "mtime": 1778324213.1227438,
+    "ast_hash": "d8691820d666e5dd9094ccc6996398e3",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\server-cache-lru.md": {
+    "mtime": 1778324213.1247642,
+    "ast_hash": "723195ea460bfbc4d43b4eb0c47b246b",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\server-cache-react.md": {
+    "mtime": 1778324213.127776,
+    "ast_hash": "bc168ee66c4378854c7aa23cb9ca1369",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\server-dedup-props.md": {
+    "mtime": 1778324213.129281,
+    "ast_hash": "86bf6f2d562ca98bca778a5b9d2f0251",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\server-hoist-static-io.md": {
+    "mtime": 1778324213.13136,
+    "ast_hash": "c01d23aeb6735924eb897bfb2cc9d697",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\server-parallel-fetching.md": {
+    "mtime": 1778324213.1333656,
+    "ast_hash": "1a36cf0b49a1a498fc1150afbf7a42c2",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\server-serialization.md": {
+    "mtime": 1778324213.1343632,
+    "ast_hash": "e6d34426614852685f43609dd9e3b250",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\_sections.md": {
+    "mtime": 1778324213.0253518,
+    "ast_hash": "b8c110b45145ded6919562772afe067c",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.agents\\skills\\react-best-practices\\upstream\\rules\\_template.md": {
+    "mtime": 1778324213.0286622,
+    "ast_hash": "a0d76a2f87f3f80e9a8f3a2a1054aaaf",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\.github\\workflows\\ci.yml": {
+    "mtime": 1778337231.9235544,
+    "ast_hash": "b74605a7d5a8540bd6c4b668b425e825",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\public\\file.svg": {
+    "mtime": 1778324758.9063454,
+    "ast_hash": "d09f95206c3fa0bb9bd9fefabfd0ea71",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\public\\globe.svg": {
+    "mtime": 1778324758.925652,
+    "ast_hash": "2aaafa6a49b6563925fe440891e32717",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\public\\next.svg": {
+    "mtime": 1778324758.9459028,
+    "ast_hash": "8e061864f388b47f33a1c3780831193e",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\public\\vercel.svg": {
+    "mtime": 1778324758.962306,
+    "ast_hash": "c0af2f507b369b085b35ef4bbe3bcf1e",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\IMCS\\public\\window.svg": {
+    "mtime": 1778324758.97784,
+    "ast_hash": "a2760511c65806022ad20adf74370ff3",
+    "semantic_hash": ""
+  },
+  "C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\icms_back\\about.md": {
+    "mtime": 1779723927.4249597,
+    "ast_hash": "e9c5395b6ac40df082b300f868cb5b87",
+    "semantic_hash": ""
+  }
+}
