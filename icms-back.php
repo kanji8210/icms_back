@@ -17,3 +17,7 @@ define('ICMS_BACK_PLUGIN_FILE', __FILE__);
 define('ICMS_BACK_PLUGIN_DIR', plugin_dir_path(__FILE__));
 
 require_once ICMS_BACK_PLUGIN_DIR . 'includes/bootstrap.php';
+
+if (class_exists(\ICMS\Infrastructure\Persistence\Migrations\SchemaManager::class)) {
+    register_activation_hook(ICMS_BACK_PLUGIN_FILE, [\ICMS\Infrastructure\Persistence\Migrations\SchemaManager::class, 'activate']);
+}
