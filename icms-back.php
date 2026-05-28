@@ -18,6 +18,14 @@ define('ICMS_BACK_PLUGIN_DIR', plugin_dir_path(__FILE__));
 
 require_once ICMS_BACK_PLUGIN_DIR . 'includes/bootstrap.php';
 
-if (class_exists(\ICMS\Infrastructure\Persistence\Migrations\SchemaManager::class)) {
-    register_activation_hook(ICMS_BACK_PLUGIN_FILE, [\ICMS\Infrastructure\Persistence\Migrations\SchemaManager::class, 'activate']);
+$schemaManagerClass = 'ICMS\\Infrastructure\\Persistence\\Migrations\\SchemaManager';
+if (!class_exists($schemaManagerClass)) {
+    $schemaManagerPath = ICMS_BACK_PLUGIN_DIR . 'src/Infrastructure/Persistence/Migrations/SchemaManager.php';
+    if (file_exists($schemaManagerPath)) {
+        require_once $schemaManagerPath;
+    }
+}
+
+if (class_exists($schemaManagerClass) && is_callable([$schemaManagerClass, 'activate'])) {
+    register_activation_hook(ICMS_BACK_PLUGIN_FILE, [$schemaManagerClass, 'activate']);
 }
