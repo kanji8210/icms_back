@@ -61,11 +61,90 @@ final class SecuritySettingsAdminPage
 
         echo '<table class="widefat striped" style="max-width: 960px; margin-top: 12px;">';
         echo '<tbody>';
-        echo '<tr><th style="width: 260px;">Current Stored Secret</th><td>' . esc_html($this->maskSecret($storedSecret)) . '</td></tr>';
+        echo '<tr><th style="width: 260px;">Current Stored Secret</th><td>';
+        if ($storedSecret === '') {
+            echo '<em>Not set</em>';
+        } else {
+            echo '<code id="icms-jwt-masked" style="display:inline-block; padding:4px 8px; background:#f6f7f7; border:1px solid #dcdcde; border-radius:3px; font-family:Consolas,Monaco,monospace; word-break:break-all; max-width:640px;">'
+                . esc_html($this->maskSecret($storedSecret))
+                . '</code>';
+            echo '<textarea id="icms-jwt-full" readonly rows="3" style="display:none; width:100%; max-width:640px; margin-top:6px; font-family:Consolas,Monaco,monospace; word-break:break-all; resize:vertical;">'
+                . esc_textarea($storedSecret)
+                . '</textarea>';
+            echo '<div style="margin-top:8px; display:flex; gap:8px; flex-wrap:wrap;">';
+            echo '<button type="button" class="button" id="icms-jwt-toggle" data-shown="0">Show full secret</button>';
+            echo '<button type="button" class="button" id="icms-jwt-copy">Copy to clipboard</button>';
+            echo '<span id="icms-jwt-copy-feedback" style="align-self:center; color:#3c434a;" aria-live="polite"></span>';
+            echo '</div>';
+            echo '<p class="description" style="margin-top:6px;">Secret length: ' . esc_html((string) strlen($storedSecret)) . ' characters. Treat this value like a password — anyone with it can forge tokens.</p>';
+        }
+        echo '</td></tr>';
         echo '<tr><th>Active Secret Source</th><td>' . esc_html($constantOverride ? 'wp-config.php constant' : 'ICMS Security admin setting') . '</td></tr>';
         echo '<tr><th>Minimum Secret Length</th><td>32 characters</td></tr>';
         echo '</tbody>';
         echo '</table>';
+
+        if ($storedSecret !== '') {
+            $script = <<<'JS'
+(function(){
+    var toggle = document.getElementById('icms-jwt-toggle');
+    var copyBtn = document.getElementById('icms-jwt-copy');
+    var masked = document.getElementById('icms-jwt-masked');
+    var full = document.getElementById('icms-jwt-full');
+    var feedback = document.getElementById('icms-jwt-copy-feedback');
+    if (!toggle || !copyBtn || !masked || !full) { return; }
+    toggle.addEventListener('click', function(){
+        var shown = toggle.getAttribute('data-shown') === '1';
+        if (shown) {
+            full.style.display = 'none';
+            masked.style.display = 'inline-block';
+            toggle.textContent = 'Show full secret';
+            toggle.setAttribute('data-shown', '0');
+        } else {
+            masked.style.display = 'none';
+            full.style.display = 'block';
+            full.focus();
+            full.select();
+            toggle.textContent = 'Hide secret';
+            toggle.setAttribute('data-shown', '1');
+        }
+    });
+    function setFeedback(msg){
+        if (!feedback) { return; }
+        feedback.textContent = msg;
+        setTimeout(function(){ feedback.textContent = ''; }, 2500);
+    }
+    copyBtn.addEventListener('click', function(){
+        var value = full.value;
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(value).then(function(){
+                setFeedback('Copied to clipboard.');
+            }).catch(function(){
+                fallbackCopy(value);
+            });
+        } else {
+            fallbackCopy(value);
+        }
+    });
+    function fallbackCopy(value){
+        var prev = full.style.display;
+        full.style.display = 'block';
+        full.focus();
+        full.select();
+        try {
+            var ok = document.execCommand('copy');
+            setFeedback(ok ? 'Copied to clipboard.' : 'Copy failed — select and copy manually.');
+        } catch (e) {
+            setFeedback('Copy failed — select and copy manually.');
+        }
+        if (toggle.getAttribute('data-shown') !== '1') {
+            full.style.display = prev;
+        }
+    }
+})();
+JS;
+            echo '<script>' . $script . '</script>';
+        }
 
         echo '<form method="post" action="' . esc_url(admin_url('admin-post.php')) . '" style="margin-top: 16px; max-width: 960px;">';
         echo '<input type="hidden" name="action" value="icms_back_save_security_settings" />';
