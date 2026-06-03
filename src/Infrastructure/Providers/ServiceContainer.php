@@ -16,16 +16,19 @@ use ICMS\Infrastructure\Auth\JwtService;
 use ICMS\Infrastructure\Persistence\Migrations\DatabaseManagementService;
 use ICMS\Infrastructure\Persistence\Repositories\WpAuditRepository;
 use ICMS\Infrastructure\Persistence\Repositories\WpCaseRepository;
+use ICMS\Infrastructure\Services\EtaMonitoringService;
 use ICMS\Presentation\Admin\DatabaseManagementAdminPage;
 use ICMS\Presentation\Admin\SecuritySettingsAdminPage;
 use ICMS\Presentation\Controllers\CaseController;
 use ICMS\Presentation\Controllers\DatabaseManagementController;
+use ICMS\Presentation\Controllers\EtaController;
 use ICMS\Presentation\GraphQL\GraphQLServer;
 use ICMS\Presentation\GraphQL\Mutations\CaseMutation;
 use ICMS\Presentation\GraphQL\Resolvers\CaseResolver;
 use ICMS\Presentation\Middleware\AuthMiddleware;
 use ICMS\Presentation\REST\CaseRoutes;
 use ICMS\Presentation\REST\DatabaseManagementRoutes;
+use ICMS\Presentation\REST\EtaRoutes;
 use ICMS\Presentation\REST\GraphQLRoute;
 
 final class ServiceContainer
@@ -147,6 +150,27 @@ final class ServiceContainer
             $controller = $container->get(DatabaseManagementController::class);
 
             return new DatabaseManagementRoutes($controller);
+        });
+
+        $this->singleton(EtaMonitoringService::class, static function (self $container): object {
+            /** @var \wpdb $wpdb */
+            $wpdb = $container->get('wpdb');
+
+            return new EtaMonitoringService($wpdb);
+        });
+
+        $this->singleton(EtaController::class, static function (self $container): object {
+            /** @var EtaMonitoringService $etaMonitoringService */
+            $etaMonitoringService = $container->get(EtaMonitoringService::class);
+
+            return new EtaController($etaMonitoringService);
+        });
+
+        $this->singleton(EtaRoutes::class, static function (self $container): object {
+            /** @var EtaController $controller */
+            $controller = $container->get(EtaController::class);
+
+            return new EtaRoutes($controller);
         });
 
         $this->singleton(CaseResolver::class, static function (self $container): object {

@@ -11,7 +11,7 @@ This scaffold follows strict layered architecture and OOP separation of concerns
 
 ## Folder Structure
 
-```
+```text
 config/
   graphql/
 
@@ -71,3 +71,7 @@ public/
 - Keep WordPress-specific logic in Infrastructure/Presentation only.
 - Share reusable behavior through abstract classes and traits sparingly.
 - Use constructor injection for all dependencies.
+
+## Additional Docs
+
+- ETA integration and sample data: [ETA_INTEGRATION.md](ETA_INTEGRATION.md)

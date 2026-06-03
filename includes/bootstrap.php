@@ -4,10 +4,12 @@ declare(strict_types=1);
 
 use ICMS\Presentation\REST\CaseRoutes;
 use ICMS\Presentation\REST\DatabaseManagementRoutes;
+use ICMS\Presentation\REST\EtaRoutes;
 use ICMS\Presentation\REST\GraphQLRoute;
 use ICMS\Presentation\Admin\DatabaseManagementAdminPage;
 use ICMS\Presentation\Admin\SecuritySettingsAdminPage;
 use ICMS\Infrastructure\Providers\ServiceContainer;
+use ICMS\Infrastructure\Services\EtaMonitoringService;
 
 spl_autoload_register(static function (string $class): void {
     if (strncmp($class, 'ICMS\\', 5) !== 0) {
@@ -38,6 +40,18 @@ add_action('plugins_loaded', static function (): void {
     $container = new ServiceContainer();
     $container->registerDefaults();
 
+    add_action('init', static function (): void {
+        if (!wp_next_scheduled('icms_back_eta_monitor_hourly')) {
+            wp_schedule_event(time() + 60, 'hourly', 'icms_back_eta_monitor_hourly');
+        }
+    });
+
+    add_action('icms_back_eta_monitor_hourly', static function () use ($container): void {
+        /** @var EtaMonitoringService $etaMonitoringService */
+        $etaMonitoringService = $container->get(EtaMonitoringService::class);
+        $etaMonitoringService->runMonitor();
+    });
+
     add_action('rest_api_init', static function () use ($container): void {
         /** @var CaseRoutes $routes */
         $routes = $container->get(CaseRoutes::class);
@@ -50,6 +64,10 @@ add_action('plugins_loaded', static function (): void {
         /** @var GraphQLRoute $graphqlRoute */
         $graphqlRoute = $container->get(GraphQLRoute::class);
         $graphqlRoute->register();
+
+        /** @var EtaRoutes $etaRoutes */
+        $etaRoutes = $container->get(EtaRoutes::class);
+        $etaRoutes->register();
     });
 
     if (is_admin()) {
