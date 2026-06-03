@@ -24,6 +24,36 @@ spl_autoload_register(static function (string $class): void {
     }
 });
 
+add_filter('rest_allowed_cors_headers', static function ($allowedHeaders) {
+    $requiredHeaders = [
+        'authorization',
+        'x-icms-internal-token',
+        'x-icms-eta-secret',
+    ];
+
+    $headers = is_array($allowedHeaders)
+        ? $allowedHeaders
+        : array_filter(array_map('trim', explode(',', (string) $allowedHeaders)));
+
+    $seen = [];
+    foreach ($headers as $header) {
+        $seen[strtolower((string) $header)] = true;
+    }
+
+    foreach ($requiredHeaders as $header) {
+        if (!isset($seen[$header])) {
+            $headers[] = $header;
+            $seen[$header] = true;
+        }
+    }
+
+    if (is_array($allowedHeaders)) {
+        return $headers;
+    }
+
+    return implode(', ', $headers);
+});
+
 add_action('plugins_loaded', static function (): void {
     $schemaManagerClass = 'ICMS\\Infrastructure\\Persistence\\Migrations\\SchemaManager';
     if (!class_exists($schemaManagerClass)) {

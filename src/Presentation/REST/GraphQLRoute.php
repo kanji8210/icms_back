@@ -36,7 +36,7 @@ final class GraphQLRoute
                     return new \WP_REST_Response([
                         'endpoint' => '/wp-json/icms-back/v1/graphql',
                         'method'   => 'POST',
-                        'auth'     => 'Bearer JWT (Authorization header)',
+                        'auth'     => 'Bearer JWT or ICMS internal token (Authorization header)',
                     ], 200);
                 },
                 'permission_callback' => '__return_true',
